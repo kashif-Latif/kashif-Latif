@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Latif</h1>
-<h3 align="center">A passionate CS UndereGraduate From Paksitan</h3>
+<h3 align="center">A passionate CS UndereGraduate From Paksitan Currently Enrolled in CS in a Lahore Univeristy and i'm eager to make carrear in this Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashif-latif&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-latif" /> </p>
 
