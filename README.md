@@ -109,31 +109,19 @@
 
 ###
 
+<img align="right" height="250" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif&"  />
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kashif-Latif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-Latif&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kashif-Latif&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=2&order=3" height="100" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif-Latif&radius=16&theme=redical&area=false&order=5&custom_title=Activity&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/kashif-Latif/kashif-Latif/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashif-Latif/kashif-Latif/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashif-Latif/kashif-Latif/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kashif-Latif/kashif-Latif/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif&"  />
 
 ###
