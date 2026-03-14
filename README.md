@@ -92,7 +92,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/m-kashif-latif-91070729a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -113,15 +113,15 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif&"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kashif-Latif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-Latif&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kashif-Latif&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=2&order=3" height="100" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif-Latif&radius=16&theme=redical&area=false&order=5&custom_title=Activity&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif&"  />
 
 ###
