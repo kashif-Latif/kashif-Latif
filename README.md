@@ -114,9 +114,15 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashif-latif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-latif&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kashif-latif&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=2&order=3" height="150" alt="streak graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kashif-Latif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-Latif&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=kashif-Latif&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=2&order=3" height="100" alt="streak graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif-Latif&radius=16&theme=redical&area=false&order=5&custom_title=Activity&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+
 </div>
 ###
 
