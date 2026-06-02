@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋 I am Muhamad Kashif Latif</h1>
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&lines=👋+Muhammad+Kashif+Latif;🤖+AI+%26+Generative+AI+Developer;⚡+Building+Real-World+LLM+Applications;🚀+Full-Stack+Developer+(Next.js,+React,+FastAPI);🧠+Exploring+Agentic+AI+%26+RAG+Systems;☁️+AWS+Cloud+Learner;📈+Open+to+AI+and+Software+Engineering+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&lines=🤖+AI+%26+Generative+AI+Developer;⚡+Building+Real-World+LLM+Applications;🚀+Full-Stack+Developer+(Next.js,+React,+FastAPI);🧠+Exploring+Agentic+AI+%26+RAG+Systems;☁️+AWS+Cloud+Learner;📈+Open+to+AI+and+Software+Engineering+Opportunities" />
 </div>
+
 
 ###
 
