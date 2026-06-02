@@ -53,7 +53,7 @@ Passionate about building AI-powered applications, scalable web platforms, and i
 
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Code%20•%20Data%20•%20Intelligence&fontSize=30&fontColor=FFFFFF&animation=fadeIn&color=gradient"/>
 
 </div>
 
@@ -103,18 +103,9 @@ Passionate about building AI-powered applications, scalable web platforms, and i
 
 </div>
 
----
 
+<div align="left">
 
-
----
-
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Code%20•%20Data%20•%20Intelligence&fontSize=30&fontColor=FFFFFF&animation=fadeIn&color=gradient"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif"/>
 
 </div>
