@@ -51,6 +51,34 @@ Passionate about building AI-powered applications, scalable web platforms, and i
 
 </div>
 
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/m-kashif-latif-91070729a">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+</a>
+
+<a href="https://x.com/blaze_rxt">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
+</a>
+
+<a href="https://www.facebook.com/kashif.126">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/i.m_kashif.126">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
+</a>
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -77,35 +105,11 @@ Passionate about building AI-powered applications, scalable web platforms, and i
 
 ---
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/m-kashif-latif-91070729a">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-</a>
-
-<a href="https://x.com/blaze_rxt">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
-</a>
-
-<a href="https://www.facebook.com/kashif.126">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50"/>
-</a>
-
-<a href="https://www.instagram.com/i.m_kashif.126">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
-</a>
-
-</div>
 
 ---
 
-<div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kashif-Latif.kashif-Latif"/>
-
-</div>
 
 ---
 
